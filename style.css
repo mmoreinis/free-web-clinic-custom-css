@@ -1,0 +1,26 @@
+html {scroll-behavior: smooth;} figcaption { text-align: center;} figcaption:not(.blocks-gallery-caption) { padding-top: var(--wp--preset--spacing--050);}
+
+.line{
+
+width: 150px;
+margin-bottom: 10px;
+}
+
+.min-width{
+  min-width: 250px;
+}
+
+/* Case Study Template */
+
+p.acf-view__types-label {
+   font-size:1.25rem;
+   font-weight:bold;
+}
+
+a.acf-view__site-url2 {
+   font-style:italic;
+}
+
+.wp-block-navigation__submenu-container{
+z-index:1000!important;
+}
